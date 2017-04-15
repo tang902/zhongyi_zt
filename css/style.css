@@ -445,7 +445,7 @@ img {
   width: 15rem;
   height: 4.35rem;
   background: url('../images/sec02_2_01.png') no-repeat center center;
-  background-size: cover;
+  background-size: contain;
   font-size: 0.6rem;
   line-height: 1.05rem;
 }
